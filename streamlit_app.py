@@ -7,7 +7,7 @@ from langchain_core.prompts import ChatPromptTemplate
 
 # Configuración visual de la pestaña en la web
 st.set_page_config(page_title="EcoWear AI Agent", page_icon="🤖", layout="wide")
-st.title("🍃🍃 EcoWear Innovations - AI Agent")
+st.title("🤖🍃 EcoWear Innovations - AI Agent")
 
 # =====================================================================
 # 1. CONFIGURACIÓN DE LA API KEY
