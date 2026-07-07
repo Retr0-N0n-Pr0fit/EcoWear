@@ -1,0 +1,9 @@
+﻿Componente,Tecnologia_Utilizada,Proposito,Estado_Implementacion
+Frontend (Experiencia del Usuario),React.js / Next.js 15 / Tailwind CSS,"Interfaz de usuario ultra rápida, optimizada para SEO internacional, renderizado del lado del servidor (SSR) y diseño responsivo.",Producción
+Backend (Lógica de Negocio),Node.js (Express) / FastAPI (Python),"Procesamiento distribuido de pedidos, lógica interna de inventario y endpoints de alta velocidad para servicios analíticos.",Producción
+Base de Datos Transaccional,PostgreSQL / Amazon RDS,"Almacenamiento relacional estructurado con cifrado en reposo para usuarios, transacciones financieras y estados de facturación.",Producción
+Catálogo y Reseñas,MongoDB Atlas,"Base de datos NoSQL flexible orientada a documentos para manejar esquemas dinámicos de productos y opiniones de clientes.",Producción
+Motor de Búsqueda Semántica e IA,FAISS / LangChain / Gemini 2.5 Flash,"Infraestructura central del AI Agent para responder consultas de clientes a partir de documentación no estructurada en tiempo real.",Migración 2026
+Infraestructura y Cloud,Amazon Web Services (AWS) - EC2 / S3 / CloudFront,"Alojamiento global escalable, distribución de contenido multimedia mediante CDN y almacenamiento de alta disponibilidad.",Producción
+Pasarela de Pagos,Stripe API (Cifrado PCI-DSS Cumplido),"Procesamiento global y seguro de tarjetas de crédito, Apple Pay y métodos de pago locales autorizados.",Producción
+Monitoreo y Observabilidad,Datadog / OpenTelemetry,"Seguimiento de logs, alertas automáticas de caídas del servidor y monitoreo de latencia en peticiones críticas.",Producción

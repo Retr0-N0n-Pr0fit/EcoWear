@@ -1,0 +1,7 @@
+﻿ID_Venta,Producto,Fecha,Cantidad,Precio_Unitario,Ingreso_Total,Region,Canal_Venta
+ECO-001,Camiseta Algodón Orgánico GOTS,10/01/2026,45,29.99,1349.55,Norteamérica,Online
+ECO-002,Pantalón Lino Reciclado,11/02/2026,35,59.99,2099.65,Europa Occidental,Tienda Física
+ECO-003,Suéter de Lana Certificada RWS,12/02/2026,40,79.99,3199.60,Norteamérica,Online
+ECO-004,Zapatillas Ecológicas de Cáñamo,15/03/2026,58,89.99,5219.42,Asia Pacífico,Online
+ECO-005,Bolsa de Tela Orgánica Reutilizable,16/03/2026,60,9.99,599.40,Europa Occidental,Tienda Física
+ECO-006,Chaqueta Impermeable de Poliéster Reciclado,05/06/2026,50,120.00,6000.00,Europa Occidental,Online
